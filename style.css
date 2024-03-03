@@ -1,0 +1,29 @@
+header h1{
+    text-align: center;
+}
+header img{
+width:100px;
+}
+body{
+    background-color:darkblue;  
+    color:white;
+}
+ main img{
+ height:150px;
+ }
+ header nav{
+     text-align: center
+ }
+ nav a{
+     background-color: lightblue;
+     color: darkblue;
+     text-decoration: none;
+     margin:30px;
+     padding:5px;
+     border-radius: 10px;
+
+ }
+ footer p{
+     border-bottom:3px solid white;
+     width:335px
+ }
